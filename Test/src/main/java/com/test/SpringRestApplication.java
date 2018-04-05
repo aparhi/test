@@ -9,7 +9,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 /** test
 /**
- * Sample RESTful application
+ * Sample RESTful application 
  */
 @SpringBootApplication(scanBasePackages = { "com.test"})
 public class SpringRestApplication extends SpringBootServletInitializer {
